@@ -6,7 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: digbalay_bose.jpg
+  jekyll-image-size: {width: 500, height: 400}
   address: 
     <p>RTH 320</p>
     <p>3710 McClintock Ave</p>
